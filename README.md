@@ -1,6 +1,6 @@
 # Plant-Transcriptional-Repression-Toolkit
 
-This repo houses the code to perform all analyses and generate all figures in the manuscript "sign and characterization of a transcriptional repression toolkit for plants". 
+This repo houses the code to perform all analyses and generate all figures in the manuscript "Design and characterization of a transcriptional repression toolkit for plants". 
 
 We hope that publishing our code will facilitate re-use and make our science more transparent.
 
